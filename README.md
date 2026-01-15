@@ -4,12 +4,11 @@ SkinBuddy – Your Personal Skin Care Assistant
 
 
 ##Group members:
-Israt Jahan Diya 
 
+Israt Jahan Diya 
 Id: 41240202275
 
 Mosa. Afroja Sraboni
-
 Id: 41240202313
 
 
